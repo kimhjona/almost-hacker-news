@@ -1,6 +1,6 @@
 ## <a href="http://kimhjona.github.io/hacker-news">Almost Hacker News</a>
 
-<a href='http://kimhjona.github.io/hacker-news'></a>
+<a href='http://kimhjona.github.io/almost-hacker-news'></a>
 
 <p>Features I could add:</p>
 <p>• sort functionality in comments</p>
