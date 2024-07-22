@@ -1,8 +1,8 @@
 {
-  "name": "hacker-news",
+  "name": "almost-hacker-news",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://kimhjona.github.io/hacker-news",
+  "homepage": "http://kimhjona.github.io/almost-hacker-news",
   "dependencies": {
     "@types/jest": "24.0.12",
     "@types/node": "12.0.0",
