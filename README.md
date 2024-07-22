@@ -1,4 +1,4 @@
-## <a href="http://kimhjona.github.io/hacker-news">Almost Hacker News</a>
+## <a href="http://kimhjona.github.io/almost-hacker-news">Almost Hacker News</a>
 
 <a href='http://kimhjona.github.io/almost-hacker-news'></a>
 
