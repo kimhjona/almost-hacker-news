@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/almost-hacker-news/static/css/main.a7f7c08c.chunk.css",
+    "main.js": "/almost-hacker-news/static/js/main.590a8146.chunk.js",
+    "main.js.map": "/almost-hacker-news/static/js/main.590a8146.chunk.js.map",
+    "runtime~main.js": "/almost-hacker-news/static/js/runtime~main.13ae506d.js",
+    "runtime~main.js.map": "/almost-hacker-news/static/js/runtime~main.13ae506d.js.map",
+    "static/js/2.999772f0.chunk.js": "/almost-hacker-news/static/js/2.999772f0.chunk.js",
+    "static/js/2.999772f0.chunk.js.map": "/almost-hacker-news/static/js/2.999772f0.chunk.js.map",
+    "index.html": "/almost-hacker-news/index.html",
+    "precache-manifest.5eae41e34f68f3ff8e1c876cd83c7605.js": "/almost-hacker-news/precache-manifest.5eae41e34f68f3ff8e1c876cd83c7605.js",
+    "service-worker.js": "/almost-hacker-news/service-worker.js",
+    "static/css/main.a7f7c08c.chunk.css.map": "/almost-hacker-news/static/css/main.a7f7c08c.chunk.css.map"
+  }
+}
